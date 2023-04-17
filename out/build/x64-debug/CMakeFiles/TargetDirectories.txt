@@ -1,0 +1,3 @@
+C:/Users/rmaxz/Desktop/CSProjects/Cpphimerai/Cpphimerai/out/build/x64-debug/CMakeFiles/Cpphimerai.dir
+C:/Users/rmaxz/Desktop/CSProjects/Cpphimerai/Cpphimerai/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/rmaxz/Desktop/CSProjects/Cpphimerai/Cpphimerai/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
